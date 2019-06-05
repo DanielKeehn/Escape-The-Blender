@@ -8,7 +8,7 @@ This project can be run in two ways….
 
 ## How To Play
 ![](TitleScreen.png)
-![](InGameImage.png)
+![](InGameImage.png) 
 
 ## In-Game Images
 
