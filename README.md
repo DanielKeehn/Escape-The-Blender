@@ -10,6 +10,7 @@ This project can be run in two ways….
 ### Controls:
 A or Left Arrow- go left
 D or Right Arrow- go right
+
 Spacebar- jump
 
 ### Rules:
