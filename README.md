@@ -7,6 +7,8 @@ This project can be run in two ways….
 2)	If you have Unity installed, you can also download this whole project and open this game in Unity. This gives you the possibility to modify this game.
 
 ## How To Play
+![](TitleScreen.png)
+![](InGameImage.png)
 
 ## In-Game Images
 
