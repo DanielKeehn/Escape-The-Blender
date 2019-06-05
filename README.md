@@ -8,10 +8,12 @@ This project can be run in two ways….
 
 ## How To Play
 ### Controls:
-A or Left Arrow- go left
-D or Right Arrow- go right
-
-Spacebar- jump
+#### A or Left Arrow
+go left
+#### D or Right Arrow
+go right
+#### Spacebar
+jump
 
 ### Rules:
 1)	Reach the broccoli 
